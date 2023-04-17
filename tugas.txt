@@ -1,0 +1,7 @@
+Setelah mempelajari konsep algoritma primitif komputer grafik, kerjakanlah soal-soal berikut.
+
+1. Buatlah sebuah bidang koordinat dengan menggunakan HTML Canvas.
+2. Buatlah program yang menerima inputan menggunakan keyboard untuk membuat sebuah titik pada bidang tersebut.
+3. Buatlah program yang menerima inputan menggunakan mouse untuk membuat sebuah titik pada bidang tersebut.
+4. Buatlah program yang mengimplementasikan algoritma DDA  untuk membuat sebuah garis  dengan menerima inputan dari keyboard.
+5. Buatlah program yang mengimplementasikan algoritma DDA  untuk membuat sebuah garis  dengan menerima inputan dari mouse.
